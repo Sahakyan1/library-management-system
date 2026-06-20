@@ -2,7 +2,7 @@
 
 A lightweight, console-based Library Management System built with Java Core, demonstrating clean object-oriented design, effective data structure utilization, and robust file operations. 
 
-This project was developed to showcase core backend engineering principles, specifically focused on layered architecture, efficient data retrieval, and custom exception handling.
+This project was developed to showcase core backend engineering principles, specifically focused on layered architecture,efficient data retrieval, and custom exception handling.
 
 
 ## Key Features
