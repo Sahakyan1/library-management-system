@@ -42,7 +42,7 @@ The project strictly follows the **Separation of Concerns (SoC)** principle, sep
 
 
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/Sahakyan1/library-management-system.git
 cd library-management-system/src
 javac com/library/Main.java
 java com.library.Main
