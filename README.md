@@ -38,13 +38,12 @@ The project strictly follows the **Separation of Concerns (SoC)** principle, sep
 - IDE (Optional):IntelliJ IDEA, Eclipse, or VS Code.
 
 ### Running via Terminal
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/library-management-system.git](https://github.com/yourusername/library-management-system.git)
-2.```bash
-   
- cd library-management-system/src
- javac com/library/Main.java
- java com.library.Main
 
+
+
+```bash
+git clone https://github.com/yourusername/library-management-system.git
+cd library-management-system/src
+javac com/library/Main.java
+java com.library.Main
    
