@@ -41,8 +41,9 @@ The project strictly follows the **Separation of Concerns (SoC)** principle, sep
 1. Clone the repository:
    ```bash
    git clone [https://github.com/yourusername/library-management-system.git](https://github.com/yourusername/library-management-system.git)
- ```bash cd library-management-system/src
- ```bash javac com/library/Main.java
- ```bash java com.library.Main
+2. Bash
+ cd library-management-system/src
+ javac com/library/Main.java
+ java com.library.Main
 
    
